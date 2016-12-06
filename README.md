@@ -1,6 +1,6 @@
 # TodoWeb
 
-This Android App is a basic demonstration of low level authentication.  At present is only interacts with localhost:5000 as hosted by a sister Flask application mytodo at https://github.com/seanderson/webserver/wiki
+This Android App is a basic demonstration of low level authentication.  At present is only interacts with localhost:5000 as hosted by a sister Flask application mytodo at https://github.com/seanderson/webserver
 
 Basic usage:
 * install flask and its dependencies
