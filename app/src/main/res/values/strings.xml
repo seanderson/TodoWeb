@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">0TodoWeb</string>
+    <string name="login_title">"Server Login"</string>
+    <string name="server_url">"http://10.0.2.2:5000/"</string>
+    <string name="login_url">"login"</string>
+    <string name="login_enter">"Press to login"</string>
+    <string name="db_url">"dbjsn"</string>
+    <string name="user_label">"Email"</string>
+
+    <string name="password_label">"Password"</string>
+    <string name="email_hint">"myemail@provider.com"</string>
+    <string name="password_hint">"password"</string>
+
+
+    <string name="json_user">"person"</string>
+    <string name="json_task">"task"</string>
+    <string name="json_array">"tasks"</string>
+
+
+    <string name="authent_user">"email"</string>
+    <string name="authent_password">"password"</string>
+
+    <string name="xx">"xx"</string>
+</resources>
